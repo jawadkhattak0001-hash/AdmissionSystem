@@ -17,6 +17,16 @@ A professional desktop application built with **Java Swing** and **MySQL** to ma
 * **Backend:** MySQL
 * **Driver:** JDBC MySQL Connector
 
+---
+## ⚙️ How to Setup the Database
+Since I exported the database from **phpMyAdmin**, follow these steps to run it:
+
+1. Open **XAMPP Control Panel** and start **Apache** and **MySQL**.
+2. Open your browser and go to `localhost/phpmyadmin`.
+3. Create a new database named `admission_db`.
+4. Click on the **Import** tab at the top.
+5. Choose the `admission_db.sql` file from this project folder and click **Import/Go**.
+
 ## ⚙️ Setup and Installation
 1. **Clone the Repository:**
    ```bash
