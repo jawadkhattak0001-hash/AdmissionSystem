@@ -1,5 +1,5 @@
 # College Admission System
-
+**Developed by: MUHAMMAD JAWAD & ROHAIL AHMAD**
 A professional desktop application built with **Java Swing** and **MySQL** to manage student admissions efficiently.
 
 ## 🚀 Key Features
@@ -17,4 +17,4 @@ A professional desktop application built with **Java Swing** and **MySQL** to ma
 ## ⚙️ Setup and Installation
 1. **Clone the Repository:**
    ```bash
-git clone https://github.com/jawadkhattak0001-hash/AdmissionSystem.git 
+git clone [https://github.com/jawadkhattak0001-hash/AdmissionSystem.git](https://github.com/jawadkhattak0001-hash/AdmissionSystem.git)
