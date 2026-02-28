@@ -1,5 +1,6 @@
 # College Admission System
 **Developed by: MUHAMMAD JAWAD & ROHAIL AHMAD**
+
 A professional desktop application built with **Java Swing** and **MySQL** to manage student admissions efficiently.
 
 ## 🚀 Key Features
